@@ -26,7 +26,7 @@
     <mybatis.spring.boot.version>1.3.0</mybatis.spring.boot.version>
     <swagger.version>2.9.2</swagger.version>
     <swagger.bootstrap.ui.version>1.9.1</swagger.bootstrap.ui.version>
-    <fastjson.version>1.2.60</fastjson.version>
+    <fastjson.version>1.2.83</fastjson.version>
     <BCrypt.version>0.4.1</BCrypt.version>
     <pagehelper.version>1.2.10</pagehelper.version>
     <mybatisplus.version>3.0.7.1</mybatisplus.version>
